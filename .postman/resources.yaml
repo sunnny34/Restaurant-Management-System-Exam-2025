@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 94dca8b1-19a2-4837-9a18-49daf2ecc23b
+
+localResources:
+  collections:
+    - ..\tests\postman\RMS-TestSuite-v2.json
